@@ -1,0 +1,32 @@
+Start
+- 5 tokens in Tuek's Sietch and 15 tokens in reserve.
+- 5 spice
+
+Free Revival:  1 token
+
+Basic Powers
+------------
+You control all shipments onto and off Dune.
+
+You can make one of three types of shipments during Movement:
+1. Normal shipment from reserves to any territory.
+2. Ship any number of tokens from any one sector/territory free from the Storm to any other territory on the board.
+3. Same as 2, except to your reserves.
+
+You pay half when shipping your tokens (rounded up). Shipping to reserves is the same as shipping to a stronghold.
+
+When any other player ships tokens onto Dune from their reserves, he pays the spice to you instead of the Spice Bank.
+
+If no player has won by the end of play, you have prevented control of Dune and automatically win the game.
+
+Advanced Powers
+---------------
+You may take your movement at any time in the Movement sequence. Other players must continue in the normal Movement sequence. You may not interrupt a movement in progress. You do not have to reveal when you intend to move until you wish to take it. Battle round order is determined by the order you actually moved (not necessarily the Storm order).
+
+Advanced Karama
+---------------
+You may use a Karama card to stop a shipment of any one player (not Fremen) for one Movement round. This does not affect the target player's maneuvers on-planet.
+
+Alliance
+--------
+Allies may use the same types of shipments and at the same cost as you.  They win with you if no one else wins.

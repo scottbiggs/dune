@@ -1,0 +1,27 @@
+setup
+-----
+20 tokens in reserve
+10 spice
+
+Basic Powers
+------------
+Prison Planet:
+You may revive up to 1 token for free.
+
+Great Wealth:
+You may give spice to allies at any time in the turn.
+This does not allow you to pay their costs, nor reduce their costs in any way.
+
+Golden Lion Throne:
+Payment for treachery cards go to you directly (even if you gave them spice!).
+When you purchase treachery cards, you pay the bank.
+
+Advanced Powers
+---------------
+
+Combat Medics:
+You may play a Karama card at any time to revive up to 3 Army tokens or 1 Leader for free.
+These tokens go directly to your reserves and do not count against your normal revival limits.
+Only 1 token may be a Sardaukar.
+
+==> NOTE:  This is an optional rule that we've never played!

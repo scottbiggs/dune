@@ -1,0 +1,55 @@
+setup
+-----
+10 tokens between Sieth Tabr, False Wall South, and False Wall West.
+10 tokens in Reserves.
+3 spice
+
+Basic Powers
+------------
+Desert Creatures: Your army tokens may move an additional space per move.
+
+Native: You may bring any or all your reserves onto any territory within two territories of Great Flat (subject to storm and occupancy rules).
+This is your only method of bringing army tokens onto the play area.
+Deploying armies this way has no cost.
+
+Sandriders:
+If a worm appears in a territory with your army tokens, they are not devoured.
+You may then ride the worm to any territory on the board (subject to storm and occupancy rules). This has no other effect on the destination territory.
+
+Liet's Plan:
+If:
+  1. No player has won by the end of the last turn
+  2. You (or no one) occupies Sieth Tabr and Habbanya Ridge Sietch
+  3. Neither Harkonnen, Atreides, nor Emperor occupies Tuek's Sietch
+Then you have successfully prevented interference with your plans to make Dune a paradise. You and your allies win instead of the Guild.
+
+Underestimated:
+You revive up the 3 tokens for free.
+
+ADVANCED POWERS
+---------------
+
+Taste the Air:
+After the storm round, you roll the die and keep it hidden until the next storm round. You (and only you) may look at the die at any time.
+
+Bless the Maker:
+For each worm that appears after the first in the same territory, you may select which territory that worm appears.
+If it appears in a desert territory, all enemy tokens are devoured. Fremen tokens may ride that worm to any other territory on the board (subject to storm and occupancy rules).
+Tokens on the destination territory are not affected.
+
+==> NOTE: does this happend BEFORE or AFTER the nexus?
+
+Sandcraft:
+Armies caught by storms or deployed within a storm are reduced by half (round down).
+
+Desert Ghosts:
+You may deploy armies within a storm, but they suffer the same effect as armies caught in a storm.
+
+Thumpers:
+You may play a Karama card during Spice Blow or your Movement round to cause a worm to appear in any territory (see Bless the Maker).
+No nexus results from this play.
+
+Long Live the Fighters:
+You have 3 starred tokens, called Fedaykin.
+They count as double for fighting strength (1 uncharged, 2 charged), but count as only 1 during revival.
+Only 1 Fedaykin may be revived per turn.

@@ -1,0 +1,32 @@
+Setup:
+5 tokens in Tuek's Sietch
+15 token in reserve
+5 spice
+
+Basic Powers
+------------
+Protected: During the Revival Round you may revive up to 1 token for free.
+
+Masters of Ships:
+You are capabale of making one of three possible types of shipments each turn:
+1. you may ship normally from off-planet reserves to Dune;
+2. you may ship any number of tokens from any one terriory to any other territory on the board although neither may also be a sector affected by the Storm;
+3. you may ship any number of tokens from one territory/sector not affected by the Storm back to your reserves as if your reserves where a stronghold.
+
+Privileged:
+You need pay only half the fee when shipping your own tokens. Round any fractions up.
+
+Monopoly:
+When any other player makes a standard shipment of tokens onto Dune from off-planet reserves, or one of the special shipments they may make as your ally, they pay the spice immediately to you at full listed costs instead of to the Spice Bank. This does not include any other form of deployment.
+
+The Spice Must Flow:
+If no other faction or alliance has been *able to win the game by the end of the final turn*, you and any allies have prevented control of Dune and automatically win.
+
+Advanced Powers
+---------------
+
+Control Shipping:
+You may play a Karama card during the shipment segment of another player's movement round when a shipment is declared. That shipment is prevented and no spice is paid for it. That player still counts as having used their shipment opportunity. This does not affect any other form of moving tokens onto the board, not does it affect any of the target's maneuvers.
+
+See Danger:
+You are not required to take your movement when it occurs in the turn sequence during the Movement Round but may take it at any turn in the sequence that you wish. The rest of the players must take their turns in the proper sequence. You do not have to reveal when you intend to take your turn until the moment you wish to take it, but you may not interrupt another player's turn to take your move. You will participate in the Battle Round in the order you moved (not necessarily the order the Storm dictates).
