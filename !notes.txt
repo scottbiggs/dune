@@ -1,0 +1,6 @@
+- When printing, everything is about a stop and a half darker than it looks
+on the screen.
+- And I need to jump the saturation about a whole stop.  
+- Reds are particularly unsaturated/dark.
+- Lastly, expect MORE cut-off than I had.  The border looks a little thin on
+the cards.
