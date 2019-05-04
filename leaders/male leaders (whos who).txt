@@ -1,0 +1,35 @@
+a - paul			dusty, eric c, jd, joel,
+					john h, jon ray, jp, keith, paul g,
+a - duncan			john harrison
+a - gurney			james
+a - thufir			SCOTT C
+a - yueh			joe lummus
+a - jessica		??
+
+e - emperor			prem
+e - fenring			joey (DONE)
+e - aramsham		bruce (DONE)
+e - burseg, 3	curtis, jayson, *jerome, *jeff r, nils, rommel, adam (DONE)
+e - caid, 3		andrew ruth, curtis, *gabe, jerome, *keith, shark, trenton (DONE)
+e - bashar, 2	adam, dane, don daro, joel, jon ray, *trenton (DONE)
+
+f - kynes			brian briskey
+f - stilgar			jackson
+f - otheym, 5		jd
+f - jamis, 2		richard jones, jim walters, eric cepdea, josh
+f - chani, 6		Anastasia
+f - mapes, 3		Kathy Rose
+
+g - edric			jennifer?
+g - staban tuek, 5		steph (DONE)
+g - esmar tuek, 3		steph (DONE)
+g - master bewt, 3		carver (DONE)
+g - soo soo sook, 2	carver
+g - guild rep, 1, chris (DONE)
+
+h - baron				D michael schmidt
+h - feyd, 6				devin
+h - beast, 5			matthew
+h - piter, 3			whymark
+h - capt nefud, 2		ben
+h - umman kudu, 1		brook
