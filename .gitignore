@@ -1,0 +1,6 @@
+# ignore all "ideas" directories
+# these usually have tons of image files that won't ever be used
+**/ideas/
+
+# same thing but for the final files (sometimes there are many versions!)
+**/final/
