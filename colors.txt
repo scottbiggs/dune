@@ -1,0 +1,23 @@
+ORIGINAL COLORS
+---------------
+green		359820
+red		dd0703
+blue		20cffb
+orange	fda32c
+yellow	fef43f
+black		000000
+
+NEW COLORS
+----------
+fremen (yellow)	fee714
+guild (blue)		0433ec or 032bc7
+bg (lavender)	d353fc
+
+Printing Colors	(because printing comes out much darker, these are the
+--------------- colors to use)
+green			00b03d
+red			ff523a
+blue			0057ff
+lavendar	d353fc
+yellow		ffff45
+black			000000
