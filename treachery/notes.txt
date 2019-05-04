@@ -1,0 +1,10 @@
+Requirements for each image:
+
+- A nice graphic of the item
+
+- Name of the item
+
+- A rebus or text that explains its use
+
+- Background or color-coding that blends it all together or links it
+to other items
