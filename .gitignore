@@ -5,5 +5,8 @@
 # same thing but for the final files (sometimes there are many versions!)
 **/final/
 
+# and the same for work directories--these should be very temporary
+**/work/
+
 # don't want to store ALL THESE PEOPLE'S PHOTOS!
 leaders/people/
