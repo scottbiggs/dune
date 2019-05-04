@@ -4,3 +4,6 @@
 
 # same thing but for the final files (sometimes there are many versions!)
 **/final/
+
+# don't want to store ALL THESE PEOPLE'S PHOTOS!
+leaders/people/
