@@ -1,0 +1,21 @@
+colors for the treachery card categories:
+
+projectile:	b61515	blood red
+poison:			a0bf16	sickly green
+lasegun:		000000	black w/ white letters
+worthless:		976537	shit brown
+cheap hero:	f2e437	cowardly yellow
+karama:					deep purple
+truth trance:		caribbean blue
+singletons:	various	(nearly white)
+	weather control:	c1fbf8 (light blue-green)
+								ffe8bc (light yellow)
+	family atomics		febcbd (light red)
+	hajr						a8b9dc (light indigo)
+								ffdabc or ffdec4 (light orange)
+	ghola						b1ebae (light green)
+								b6abde (light purple)
+								c7a6dc (light violet)
+								e9acd1 (light pink)
+								fdbbbe (salmon)
+

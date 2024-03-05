@@ -10,3 +10,5 @@
 
 # don't want to store ALL THESE PEOPLE'S PHOTOS!
 leaders/people/
+
+.DS_Store
